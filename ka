@@ -1,4 +1,4 @@
-local bailib = loadstring(game:HttpGet"https://pastebin.com/raw/DW3eJwe6")()
+local bailib = loadstring(game:HttpGet"https://github.com/Zr89Hy4jk/gdg/edit/main/ka")()
 local win = bailib:new("白脚本--造船寻宝")
 local Tab = win:Tab("主要功能", "10882439086")
 local Section = Tab:section("主要功能")
